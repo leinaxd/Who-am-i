@@ -7,7 +7,7 @@ Name: Eichenbaum Daniel
 If you are interested about my programming skills, please ask me for access into my private repositories.
 
 
-- torchAPI: A full automatized Pytorch framework (not sharing)
+- torchAPI: A full automatized Pytorch framework (not sharing, only for preview)
 - myCodeBase: A lot of tiny scripts about everything
 
 
