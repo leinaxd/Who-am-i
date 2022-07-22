@@ -12,5 +12,6 @@ If you are interested about my programming skills, please ask me for access into
 
 
 #TODO
-- Update Linkedin
-- contact web
+1. Update Linkedin
+2. contact web
+3. Update Github public portfolio
