@@ -23,7 +23,7 @@ The most thing i value in code is code-style, (readibility, documentation, testi
 The second one is performance.
 
 Why is that?
-Those High-level python repositories are reminders of how the algorithm work, 
+Those High-level python repositories are reminders of how an algorithm works, 
 Once you understood the main idea, implementing in a low level language like C/JS
 should be trivial.
  
