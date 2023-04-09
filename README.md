@@ -16,7 +16,7 @@ If you are interested about my programming skills, please peek inside any folder
 
 As those repositories are personal, many of their code may be deprecated, incomplete or could have errors.
 I constantly change and refactor that code without hesitation. 
-As building blocks are isolated, i don't even mantein code i don't use.
+As building blocks are isolated, i don't even maintain code i don't use.
 
 # What do i value in code?
 The most thing i value in code is code-style, (readibility, documentation, testing, right naming)
