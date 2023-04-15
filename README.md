@@ -26,10 +26,4 @@ Why is that?
 Those High-level python repositories are reminders of how an algorithm works, 
 Once you understood the main idea, implementing in a low level language like C/JS
 should be trivial.
- 
 
-#TODO
-1. Update Linkedin
-2. contact web
-3. Update Github public portfolio
-4. Update this readme
